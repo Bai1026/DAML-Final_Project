@@ -1,0 +1,5 @@
+model/
+info/
+data/
+main/catboost_info
+main/.ipynb_checkpoints
