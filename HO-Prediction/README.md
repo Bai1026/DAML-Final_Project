@@ -9,6 +9,10 @@ Use jupyter notebook browser:
 5. If using server: `jupyter notebook --no-browse`; If using local IDE: `jupyter notebook`
 6. Click the link in the terminal output and you will open jupyter notebook.
 
+## About the folders
+- main: contains the classification code with 5 different models.
+- future_work: contains the forcast code with 5 different models.
+
 
 ## About the data
 
